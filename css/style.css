@@ -508,11 +508,14 @@
   margin-bottom: 1.2rem;
 }
 
+.cta-form input {
+  margin-bottom: 2.4rem;
+}
+
 .cta-form input,
 .cta-form select {
   width: 100%;
   padding: 1.2rem;
-  margin-bottom: 2.4rem;
   font-size: 1.8rem;
   font-family: inherit;
   border: none;
@@ -529,4 +532,12 @@
 .cta *:focus {
   outline: none;
   box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
+}
+
+/* ********************* */
+/* FOOTER */
+/* ********************* */
+
+.footer {
+  padding: 9.6rem 0;
 }
