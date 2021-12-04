@@ -34,6 +34,7 @@ Primary: #e67e22
 - Shades: #cf711f, #eb9840
 - Accents: 
 - Greys: 
+#767676
 #555
 #333
 
@@ -96,6 +97,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {
